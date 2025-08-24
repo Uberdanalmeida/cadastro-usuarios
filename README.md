@@ -1,5 +1,5 @@
 🦜 Formulário de Cadastro de Usuários
-E aí! 🤙 Bem-vindo(a) ao meu mini-projeto de formulário de cadastro. Este é um projeto simples, focado em HTML e CSS, para praticar a criação de layouts responsivos e com um visual agradável.
+E aí! 🤙 Bem-vindo(a) ao meu mini-projeto de formulário de cadastro. Este é um projeto simples, focado em HTML, CSS e JavaScript, para praticar a criação de layouts responsivos e com um visual agradável.
 
 A ideia é mostrar um formulário de login/cadastro com um design moderno, centrado na tela e com um toque visual extra, no caso, uma imagem de papagaios! 🎨
 
@@ -16,3 +16,5 @@ Toque Visual: A imagem lateral adiciona personalidade ao layout.
 HTML: Para a estrutura e marcação da página.
 
 CSS: Para estilizar o formulário e garantir que o layout seja responsivo e visualmente agradável.
+
+JavaScript: Para validação do formulário, onde o usuário é obrigado a preencher todos os campos do formulário para realização do cadastro.
